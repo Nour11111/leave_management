@@ -102,6 +102,9 @@ A system for managing employee leave requests.
 ##   Swagger Screenshot
 ![image](https://github.com/user-attachments/assets/a91b7773-2454-4424-8828-01001dc6c343)
 
+![image](https://github.com/user-attachments/assets/06770ba2-2c23-4864-93b3-42ddfe542198)
+
+![image](https://github.com/user-attachments/assets/6b51cba8-6ada-43f3-b461-99cc2f2481e6)
 
 ##   Self-Review
 
