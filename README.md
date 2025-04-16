@@ -43,13 +43,14 @@ A system for managing employee leave requests.
     ```
 2.  Build and run the API using Docker Compose:
 
+    ```bash
     docker-compose up -d
     ```
 
 **Without Docker:**
 
 1.  Clone the repository:
-
+    ```bash
     git clone <repository_url>
     cd leave-management-system
     ```
@@ -60,18 +61,17 @@ A system for managing employee leave requests.
     dotnet restore
     ```
 4.  Build the project:
-
-    ```
+    ```bash
     dotnet build -c Release
     ```
 5.  Update the database. You might need to create an initial migration:
 
-    ```
+    ```bash
     dotnet ef database update
     ```
 6.  Run the API:
 
-    ```
+    ```bash
     dotnet run --project LeaveManagement.csproj
     ```
 7.  The API will be running at the URL shown in the console (e.g., `http://localhost:5000`).
